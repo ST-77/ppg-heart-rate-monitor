@@ -51,11 +51,11 @@ The circuit processes a heartbeat-style signal from a photoresistor-based input,
 
 ## My Contribution
 
-- Designed the analog signal-conditioning circuit stages.
+- Designed and assisted the analog signal-conditioning circuit stages with team.
 - Calculated filter cutoff frequencies and amplifier gain.
-- Built and tested the circuit simulation with team
+- Built and tested the circuit simulation with team.
 - Constructed and tested the circuit on breadboard using a photoresistor-based input with team.
-- Documented the design process of circuit construction and simulation. 
+- Documented and assisted the design process of circuit construction and simulation with team. 
 
 ## Project Media
 
