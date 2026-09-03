@@ -4,7 +4,7 @@ An analog Photoplethysmography (PPG) heart rate detection circuit designed using
 
 ## Overview
 
-This project was completed as part of an university coursework electronics mini-project in a team of four. The aim was to design, simulate, build, test, and develop a PCB layout for a small analog signal-conditioning system using op-amp stages. The project received 3rd Place in the university mini-project showcase.
+This project was completed as part of an university coursework electronics mini-project in a team of three. The aim was to design, simulate, build, test, and develop a PCB layout for a small analog signal-conditioning system using op-amp stages. The project received 3rd Place in the university mini-project showcase.
 
 The circuit processes a heartbeat-style signal from a photoresistor-based input, filters unwanted frequency components, amplifies the signal, and uses a comparator to switch on an LED when a heartbeat pulse is detected, the output is also displayed on an oscilloscope.
 
